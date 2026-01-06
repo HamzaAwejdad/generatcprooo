@@ -1,0 +1,5 @@
+{
+  "name": "GeneratCPro web",
+  "description": "A professional, Telegram-powered link generation platform with dynamic Google Sheet integration.",
+  "requestFramePermissions": []
+}
